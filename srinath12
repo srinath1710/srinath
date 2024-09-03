@@ -1,0 +1,15 @@
+<html>
+<head>
+<tital> employ detail</tital>
+<body>
+<h1> employee details </h1>
+<form action="3.php"method="post">
+enter name
+<input type="text" name=e "name">
+enter eid
+<input type="text" id="eid">
+enter salary
+<input type="text" namme="salary">
+</form>
+</body>
+</html>
